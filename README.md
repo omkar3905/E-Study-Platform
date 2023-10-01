@@ -1,1 +1,1 @@
-# estudy.github.io
+The E-Study platform is an online study material platform specifically designed for computer engineers, with a focus on exam preparation. It offers curated textbooks, lecture notes, coding examples, tutorials, and many more.
